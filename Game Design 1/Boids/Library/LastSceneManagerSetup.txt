@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/u9072/Desktop/boids-new-master/Boids/Assets/_Scene0.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
